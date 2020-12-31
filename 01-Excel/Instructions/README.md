@@ -17,11 +17,11 @@ Getting funded on Kickstarter requires meeting or exceeding the project's initia
 
 Using the Excel table provided, modify and analyze the data of 4,000 past Kickstarter projects as you attempt to uncover some market trends.
 
-* Use conditional formatting to fill each cell in the `state` column with a different color, depending on whether the associated campaign was successful, failed, or canceled, or is currently live.
+* Use conditional formatting to fill each cell in the `state` column with a different color, depending on whether the associated campaign was successful, failed, or canceled, or is currently live. # Done 
 
-  * Create a new column O called `Percent Funded` that uses a formula to uncover how much money a campaign made to reach its initial goal.
+  * Create a new column O called `Percent Funded` that uses a formula to uncover how much money a campaign made to reach its initial goal. - # Done 
 
-* Use conditional formatting to fill each cell in the `Percent Funded` column using a three-color scale. The scale should start at 0 and be a dark shade of red, transitioning to green at 100, and blue at 200.
+* Use conditional formatting to fill each cell in the `Percent Funded` column using a three-color scale. The scale should start at 0 and be a dark shade of red, transitioning to green at 100, and blue at 200. -#done 
 
   * Create a new column P called `Average Donation` that uses a formula to uncover how much each backer for the project paid on average.
 
