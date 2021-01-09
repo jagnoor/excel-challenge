@@ -14,14 +14,17 @@ Getting funded on Kickstarter requires meeting or exceeding the project's initia
  c.	Under Category theater, plays subcategory is most successful (65%). Music category has 5 subcategories with 100% success percentage.   
  
  
+<h3> 2.	What are some limitations of this dataset? </h3>  
 
+ a.	The raw data set provided includes data related to only 4115 projects out of 300000 projects that were launched. So, our conclusions are based only on a minimal set of data (1.37%) of the entire campaigns.   
+ 
+ b.	As we are working with just 1.37% of the possible raw data, 33.86% of the data is related to just one category, Theatre and the rest is unevenly spread among other categories.   
+ 
+ c.	This dataset only contains campaign launch data from Kickstarters and does not include additional data from other crowdfunded campaign platforms such as Indigogo, Angel investors, GoFundMe, etc.   
+ 
 
-2.	What are some limitations of this dataset?
- a.	The raw data set provided includes data related to only 4115 projects out of 300000 projects that were launched. So, our conclusions are based only on a minimal set of data (1.37%) of the entire campaigns. 
- b.	As we are working with just 1.37% of the possible raw data, 33.86% of the data is related to just one category, Theatre and the rest is unevenly spread among other categories. 
- c.	This dataset only contains campaign launch data from Kickstarters and does not include additional data from other crowdfunded campaign platforms such as Indigogo, Angel investors, GoFundMe, etc. 
-
-3.	What are some other possible tables and/or graphs that we could create?
- a.	Year wise Trend 
+<h3> 3.	What are some other possible tables and/or graphs that we could create? </h3>
+ a.	Year wise Trend   
+ 
  b.	Country wise breakup of kickstarter projects. 
  
